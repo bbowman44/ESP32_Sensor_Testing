@@ -16,6 +16,9 @@ development using the ESP32 microcontroller.
 - L298N Motor Driver
 - NRF24L01 Wireless Transceiver
 
+##Project ideas to implement
+- Garage door opener with WiFi implementation and app support
+
 ## Protocols to be Covered
 - I2C
 - SPI
