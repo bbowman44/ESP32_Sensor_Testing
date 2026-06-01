@@ -4,7 +4,7 @@ A hands-on embedded systems learning project focused on IoT
 development using the ESP32 microcontroller.
 
 ## Hardware to establish tests on before moving into full IoT project
-[] ELEGOO ESP32 DevKit V1
+- [] ELEGOO ESP32 DevKit V1
 - BME280 Temperature/Humidity/Pressure sensor
 - MPU-6050 Accelerometer/Gyroscope
 - SSD1306 OLED Display
