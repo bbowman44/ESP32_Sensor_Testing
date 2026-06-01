@@ -18,6 +18,7 @@ development using the ESP32 microcontroller.
 
 ## Project Ideas to Implement
 - Garage door opener with WiFi implementation and app support
+- Dog bark translator that translates dog barks into synthesised speech (non-accurate of course)
 
 ## Protocols to be Covered
 - [ ] I2C
