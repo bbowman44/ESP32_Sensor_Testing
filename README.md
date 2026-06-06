@@ -6,12 +6,12 @@ development using the ESP32 microcontroller.
 ## Hardware to establish tests on before moving into full IoT project
 - [x] ELEGOO ESP32 DevKit V1
 - [x] BME280 Temperature/Humidity/Pressure sensor
-- [ ] MPU-6050 Accelerometer/Gyroscope
+- [x] MPU-6050 Accelerometer/Gyroscope
 - [x] SSD1306 OLED Display
 - [ ] INA219 Current Sensor
 - [ ] MCP2515 CAN Bus Module
 - [ ] MAX485 RS-485 Module
-- [ ] DS18B20 Waterproof Temperature Probe
+- [x] DS18B20 Waterproof Temperature Probe
 - [ ] SG90 Servo Motor
 - [ ] L298N Motor Driver
 - [ ] NRF24L01 Wireless Transceiver
